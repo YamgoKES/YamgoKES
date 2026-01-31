@@ -22,6 +22,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Yamgo's Stats](https://github-readme-stats.vercel.app/api?username=YamgoKES&show_icons=true)
+![Eunseo's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YamgoKES&show_icons=true&theme=solarized-light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamgoKES&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YamgoKES&layout=compact&theme=solarized-light)
