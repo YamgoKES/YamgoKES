@@ -22,6 +22,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Yamgo's Stats](https://github-readme-stats.vercel.app/api?username=YamgoKES&show_icons=true&bg_color=fdf5e6&title_color=8b4513&text_color=5d4037&icon_color=d2691e&border_color=e6ccb2&v=1)
+![Yamgo's Stats](https://github-readme-stats.vercel.app/api?username=YamgoKES&show_icons=true)
 
-![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=YamgoKES&layout=compact&bg_color=fdf5e6&title_color=8b4513&text_color=5d4037&icon_color=d2691e&border_color=e6ccb2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamgoKES&layout=compact)
